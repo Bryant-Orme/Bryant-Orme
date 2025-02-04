@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Bryant
 
-<!--
-**Bryant-Orme/Bryant-Orme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects</h2>
+- <b>Linux</b>
+- [Bandit Report](https://github.com/Bryant-Orme/Bryant-Orme)
+- <b>Vulnerability Assessment</b>
+- [Web Goat](https://github.com/Bryant-Orme/Bryant-Orme)
+- <b>Cryptography</b>
+- [Cryptopals Challenges](https://github.com/Bryant-Orme/Bryant-Orme)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Software Projects</h2>
+- <b>Python</b>
+- [Scientific Computing Projects](https://github.com/Bryant-Orme/Bryant-Orme)
