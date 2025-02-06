@@ -12,4 +12,4 @@
 <h2>Software Projects:</h2>
 
 - <b>Python</b>
-  - [Scientific Computing Projects](https://github.com/Bryant-Orme/Bryant-Orme)
+  - [Scientific Computing Projects](https://github.com/Bryant-Orme/ScientificComputing)
