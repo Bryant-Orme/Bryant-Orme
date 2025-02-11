@@ -5,7 +5,7 @@
 - <b>IT Service Automation</b>
   - [Account Creation for New Hire](https://github.com/Bryant-Orme/IT-Service-Automation)
 - <b>Linux</b>
-  - [Bandit Report](https://github.com/Bryant-Orme/Bryant-Orme)
+  - [Over The Wire War Game Reports](https://github.com/Bryant-Orme/OverTheWire)
 - <b>Vulnerability Assessment</b>
   - [Web Goat](https://github.com/Bryant-Orme/Bryant-Orme)
 - <b>Cryptography</b>
