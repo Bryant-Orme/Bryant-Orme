@@ -1,6 +1,6 @@
 ## Hi, I'm Bryant
 
-Welcome to my GitHub! I'm a Computer Science graduate with a focus on Cyber Security, passionate about securing systems, automating processes, and analyzing threats. My projects include Active Directory automation, SOC log analysis, vulnerability exploitation in lab environments, and Linux security challenges.
+Welcome to my GitHub! I'm a Computer Science graduate with a focus on Cyber Security, passionate about securing systems, automating boring tasks, and making things others and I actually use.
 
 <h2>IT & Security Projects:</h2>
 
