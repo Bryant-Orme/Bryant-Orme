@@ -12,8 +12,9 @@ Welcome to my GitHub! I'm a Computer Science graduate with a focus on Cyber Secu
   - [Over The Wire War Game Reports](https://github.com/Bryant-Orme/OverTheWire)
 - <b>Vulnerability Assessment</b>
   - [Web Goat](https://github.com/Bryant-Orme/Bryant-Orme)
-- <b>Cryptography</b>
+<!--- - <b>Cryptography</b> 
   - [Cryptopals Challenges](https://github.com/Bryant-Orme/Bryant-Orme)
+  --->
 
 <h2>Software Projects:</h2>
 
